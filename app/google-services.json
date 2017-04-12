@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "166196064432",
+    "firebase_url": "https://testejosue-f247f.firebaseio.com",
+    "project_id": "testejosue-f247f",
+    "storage_bucket": "testejosue-f247f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166196064432:android:6a9adb426fe46ec7",
+        "android_client_info": {
+          "package_name": "com.maschiotech.esqueletowebview2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166196064432-1k0sl5044bev771kpbct5pr3pbgp0s9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcO5HImfdT8-n91hGpSaPxHXhga2BUZMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

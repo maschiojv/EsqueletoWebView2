@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EsqueletoWebView</string>
+    <string name="mensagem_offline">Você precisa estar conectado para acessar o aplicativo.</string>
+    <string name="tentar_novamente">Tentar Novamente</string>
+    <string name="urlSite">http://www.comunidadeamai.com.br</string>
+    <string name="carregaodo">Carregando...</string>
+    <string name="aguarde_msg">Por favor, aguarde.</string>
+</resources>
