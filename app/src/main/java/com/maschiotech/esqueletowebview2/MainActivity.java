@@ -74,11 +74,13 @@ public class MainActivity extends AppCompatActivity {
         if (progressDialog == null) {
 
             progressDialog = new ProgressDialog(this);
+            progressDialog.setIcon(R.mipmap.ic_launcher);
             progressDialog.setTitle(R.string.carregaodo);
             Resources resources = getResources();
             String aguardeMsg = resources.getString(R.string.aguarde_msg);
             progressDialog.setMessage(aguardeMsg);
             progressDialog.setIndeterminate(true);
+            progressDialog.setCancelable(false);
             progressDialog.show();
         }
     }
